@@ -1,2 +1,2 @@
 # CS336
-Documenting CS336 and it's assignments
+Documenting Stanford CS336 and my implementations of its assignments.
